@@ -12,8 +12,8 @@
 
 ## 🙋 About Me
 
-* 🎓 동국대학교 컴퓨터·AI학부 재학 중
-* 🤖 AI와 백엔드 분야에 관심이 있습니다.
+* 🦁 2026.04 ~ 멋쟁이사자처럼 14기 백엔드 트랙
+* 💻 2025.09 ~ 프로그래밍 동아리 CAPS
 * 💡 새로운 기술을 배우고 성장하는 것을 좋아합니다.
 
 ---
@@ -56,22 +56,6 @@
 <p>
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/>
 </p>
-
----
-
-## 📚 Studying
-
-```text
-✔ C
-✔ C++
-✔ Java
-✔ Python
-✔ JavaScript
-✔ Data Structure
-✔ Computer Organization
-✔ Django
-✔ HTML/CSS
-```
 
 ---
 
