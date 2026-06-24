@@ -12,8 +12,8 @@
 
 ## 🙋 About Me
 
-* 🦁 2026.04 ~ 멋쟁이사자처럼 14기 백엔드 트랙
-* 💻 2025.09 ~ 프로그래밍 동아리 CAPS
+* 🦁 2026.04 ~ 멋쟁이사자처럼 14기 백엔드 트랙 [LikeLion at DGU](https://github.com/LikeLion-at-DGU)
+* 💻 2025.09 ~ 프로그래밍 동아리 CAPS [CAPS](https://github.com/CAPS-DGU)
 * 💡 새로운 기술을 배우고 성장하는 것을 좋아합니다.
 
 ---
@@ -61,10 +61,12 @@
 
 ## 🚀 Projects
 
-| Project                      | Description                        |
-| ---------------------------- | ---------------------------------- |
-| Smart Doorbell               | 방문자와 사용자 간의 비대면 소통을 위한 스마트 도어벨 시스템 |
-| More Projects Coming Soon... | 꾸준히 추가 예정 🚀                       |
+### 🏫 Smart Doorbell
+방문자와 사용자 간의 비대면 소통을 위한 스마트 도어벨 시스템
+
+### 🦁 Wigul
+> 멋쟁이사자처럼 14기 심바톤 3팀 프로젝트
+🔗 Repository: https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul                |
 
 ---
 
