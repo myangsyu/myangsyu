@@ -4,7 +4,7 @@
 
 ## 🙋 About Me
 
-* **Computer Science · AI, Dongguk University**
+### 🏫 Computer Science · AI, Dongguk University
 * 🦁 **2026.03 ~** 멋쟁이사자처럼 [LikeLion at DGU](https://github.com/LikeLion-at-DGU) 14기 백엔드 트랙
 * 💻 **2025.09 ~** 중앙 프로그래밍 동아리 [CAPS](https://github.com/CAPS-DGU) 부원
 
@@ -30,7 +30,8 @@
 
 ### 🌱 Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/Data%20Structure-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🔄 Version Control & Others
@@ -46,17 +47,21 @@
 
 | Project | Description | Role / Note |
 | :--- | :--- | :--- |
-| **방문 유형 식별 기반 스마트 도어벨 시스템** | 2025-2 어드벤처디자인 아두이노 프로젝트 | A+ble조 |
-| 👑 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | **3위 수상** 🥉 |
+| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 2025-2 어드벤처디자인 아두이노 프로젝트 | A+ble조 |
+| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | TEAM 와굴와굴 (**3위**) |
 | 🚀 *More Projects Coming Soon...* | 꾸준히 추가 예정! | |
 
 ---
 
-## 📊 GitHub Stats & Baekjoon
+## 📊 GitHub Stats & BOJ
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myangsyu&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myangsyu&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=myangsyu&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=myangsyu&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myangsyu&theme=tokyonight" />
 </p>
 
 <p align="center">
