@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Sooyeon%20Lim&fontSize=32&animation=fadeIn" width="100%" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=9e7bb5&height=140&section=header&text=Sooyeon%20Lim&fontSize=32&animation=fadeIn" width="100%" /></p>
 
 ---
 
