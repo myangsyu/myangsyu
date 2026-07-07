@@ -2,9 +2,7 @@
 
 # 👋 Hi there, I'm Sooyeon!
 
-### 🎓 Dongguk University Computer Science·AI Student
-
-### 🌱 Learning every day and growing one step at a time
+### Computer Science·AI, Dongguk University
 
 </div>
 
