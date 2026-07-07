@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Sooyeon%20Lim&fontSize=55&animation=fadeIn" width="100%" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=140&section=header&text=Sooyeon%20Lim&fontSize=32&animation=fadeIn" width="100%" /></p>
 
 ---
 
@@ -32,6 +32,7 @@
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🔄 Version Control & Others
@@ -56,13 +57,10 @@
 ## 📊 GitHub Stats & BOJ
 
 <p align="center">
-  <!-- 깃허브 메인 스탯 및 언어 카드 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myangsyu&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myangsyu&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <!-- 백준 카드 -->
   <a href="https://solved.ac/profile/myangsyu">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myangsyu" alt="Solved.ac Profile" />
   </a>
