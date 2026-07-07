@@ -1,4 +1,4 @@
-# Sooyeon Lim
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Sooyeon%20Lim&fontSize=55&animation=fadeIn" width="100%" /></p>
 
 ---
 
@@ -30,8 +30,8 @@
 
 ### 🌱 Currently Learning
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🔄 Version Control & Others
@@ -47,24 +47,22 @@
 
 | Project | Description | Role / Note |
 | :--- | :--- | :--- |
-| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 2025-2 어드벤처디자인 아두이노 프로젝트 | A+ble조 |
-| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | TEAM 와굴와굴 (**3위**) |
-| 🚀 *More Projects Coming Soon...* | 꾸준히 추가 예정! | |
+| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 2025-2 어드벤처디자인 아두이노 프로젝트 | Team A+ble |
+| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | Team 와굴와굴 (**3위**) |
+| 🚀 *More Projects Coming Soon...* | 꾸준히 추가 예정입니다! | |
 
 ---
 
 ## 📊 GitHub Stats & BOJ
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=myangsyu&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=myangsyu&layout=compact&theme=tokyonight" height="150" />
+  <!-- 깃허브 메인 스탯 및 언어 카드 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myangsyu&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myangsyu&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myangsyu&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <!-- 백준 카드 -->
   <a href="https://solved.ac/profile/myangsyu">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myangsyu" alt="Solved.ac Profile" />
   </a>
