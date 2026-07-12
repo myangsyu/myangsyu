@@ -5,8 +5,8 @@
 ## 🙋 About Me
 
 ### 🏫 Computer Science · AI, Dongguk University
-* 🦁 **2026.03 ~** 멋쟁이사자처럼 [LikeLion at DGU](https://github.com/LikeLion-at-DGU) 14기 백엔드 트랙
-* 💻 **2025.09 ~** 중앙 프로그래밍 동아리 [CAPS](https://github.com/CAPS-DGU) 부원
+* 🦁 `2026.03 ~` 멋쟁이사자처럼 **[LikeLion at DGU]**(https://github.com/LikeLion-at-DGU) 14기 백엔드 트랙
+* 💻 `2025.09 ~` 중앙 프로그래밍 동아리 **[CAPS]**(https://github.com/CAPS-DGU) 부원
 
 ---
 
