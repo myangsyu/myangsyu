@@ -46,10 +46,10 @@
 
 ## 🚀 Projects
 
-| Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
-| :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :---------------------------------- |
+| Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| :---------------------------------------------------------------------------- | :---------------------------------- | :---------------------------------- |
 | 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 방문 유형 식별 스마트 도어벨 | Team A+ble |
-| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | Team 와굴와굴 BE (**3위**) |
+| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | Team 와굴와굴 BE (3위 🥉) |
 | 🔮 **[사주 얀](https://github.com/myangsyu/saju-me)** | AI 사주풀이 서비스 | 1인 개발 |
 | ⏰ **[틈틈](https://github.com/LikeLion-at-DGU/2026-hackathon-TeumTeum-BE)** | 멋쟁이사자처럼 14기 중앙해커톤 프로젝트 | Team 동크크 BE |
 | 📍 **[모하지](https://github.com/myangsyu/mohaji)** | 중간 약속 지역 및 장소 추천 서비스 | 1인 개발 |
