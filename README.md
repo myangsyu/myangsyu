@@ -44,31 +44,35 @@
 
 ---
 
+---
+
 ## 🚀 Projects
 
-| Project                                                                       | Description           | Role / Note    |
-| :---------------------------------------------------------------------------- | :-------------------- | :------------- |
-| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템**                                                | 방문 유형 식별 스마트 도어벨      | Team A+ble     |
-| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트  | Team 와굴와굴 (3위) |
-| 🔮 **[사주 얀](https://github.com/myangsyu/saju-me)**                            | AI 사주풀이 서비스           | 1인 개발          |
-| ⏰ **[틈틈](https://github.com/LikeLion-at-DGU/2026-hackathon-TeumTeum-BE)**     | 멋쟁이사자처럼 14기 중앙해커톤 프로젝트         | Team 동크크 백엔드   |
-| 📍 **[모하지](https://github.com/myangsyu/mohaji)**                              | 중간 약속 지역 및 장소 추천 서비스 | 1인 개발          |
-| 🚀 *More Projects Coming Soon...*                                             | 꾸준히 추가 예정입니다!         |                |
-
+| Project                                                                       | Description            | Role / Note    |
+| :---------------------------------------------------------------------------- | :--------------------- | :------------- |
+| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템**                                                | 방문 유형 식별 스마트 도어벨       | Team A+ble     |
+| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트   | Team 와굴와굴 (3위) |
+| 🔮 **[사주 얀](https://github.com/myangsyu/saju-me)**                            | AI 사주풀이 서비스            | 1인 개발          |
+| ⏰ **[틈틈](https://github.com/LikeLion-at-DGU/2026-hackathon-TeumTeum-BE)**     | 멋쟁이사자처럼 14기 중앙해커톤 프로젝트 | Team 동크크       |
+| 📍 **[모하지](https://github.com/myangsyu/mohaji)**                              | 중간 약속 지역 및 장소 추천 서비스   | 1인 개발          |
+| 🚀 *More Projects Coming Soon...*                                             | 꾸준히 추가 예정입니다!          |                |
 
 ---
 
 ## 📊 GitHub Stats & BOJ
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myangsyu&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myangsyu&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://solved.ac/profile/myangsyu">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myangsyu" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myangsyu" alt="Solved.ac Profile" width="400" />
   </a>
 </p>
+
+---
+
 
 ---
 
