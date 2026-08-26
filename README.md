@@ -46,7 +46,7 @@
 
 ## 🚀 Projects
 
-| Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;|
+| Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;|
 | :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :---------------------------------- |
 | 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 방문 유형 식별 스마트 도어벨 | Team A+ble |
 | 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | Team 와굴와굴 BE (3위 🥉) |
