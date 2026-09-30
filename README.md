@@ -41,9 +41,11 @@
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/>
 </p>
 
+---
+
 ## 🚀 Projects
 
-| Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;|
+| Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :---------------------------------- |
 | 🍁 **[풀스온](https://github.com/LikeLion-at-DGU/2026_fall_festival_back)** | 2026 동국대 가을 대동제 축제 사이트 | 멋사 축제 사이트 TF팀 BE |
 | 📍 **[모하지](https://github.com/myangsyu/mohaji)** | 중간 약속 지역 및 장소 추천 서비스 | 1인 개발 |
@@ -66,6 +68,8 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myangsyu" alt="Solved.ac Profile" width="350" />
   </a>
 </p>
+
+---
 
 ## 📫 Contact
 
