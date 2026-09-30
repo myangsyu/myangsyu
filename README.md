@@ -45,7 +45,7 @@
 
 ## 🚀 Projects
 
-| Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :---------------------------------- |
 | 🍁 **[풀스온](https://github.com/LikeLion-at-DGU/2026_fall_festival_back)** | 2026 동국대 가을 대동제 축제 사이트 | 멋사&nbsp;축제&nbsp;사이트&nbsp;TF팀&nbsp;BE |
 | 📍 **[모하지](https://github.com/myangsyu/mohaji)** | 중간 약속 지역 및 장소 추천 서비스 | 1인 개발 |
