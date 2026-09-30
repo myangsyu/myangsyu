@@ -1,7 +1,5 @@
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=9e7bb5&height=140&section=header&text=Sooyeon%20Lim&fontSize=32&animation=fadeIn" width="100%" /></p>
 
----
-
 ## 🙋 About Me
 
 ### 🏫 Computer Science · AI, Dongguk University
@@ -43,8 +41,6 @@
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/>
 </p>
 
----
-
 ## 🚀 Projects
 
 | Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;|
@@ -71,13 +67,11 @@
   </a>
 </p>
 
----
-
 ## 📫 Contact
 
 * 📧 **Email** : [hahasy1008@gmail.com](mailto:hahasy1008@gmail.com)
 
----
+<br>
 
 <div align="center">
   <h3>✨ "Keep Learning, Keep Growing" ✨</h3>
