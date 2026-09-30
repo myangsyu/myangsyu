@@ -54,7 +54,7 @@
 | ⏰ **[틈틈](https://github.com/LikeLion-at-DGU/2026-hackathon-TeumTeum-BE)** | 멋쟁이사자처럼 14기 중앙해커톤 프로젝트 | Team 동크크 BE |
 | 🔮 **[사주 얀](https://github.com/myangsyu/saju-me)** | AI 사주풀이 서비스 | 1인 개발 |
 | 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | Team 와굴와굴 BE (3위🥉) |
-| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 방문 유형 식별 기반 스마트 도어벨 시스템 | Team A+ble |
+| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 2025학년도 2학기 어드벤처디자인 프로젝트 | Team A+ble |
 | 🚀 *More Projects Coming Soon...* | 꾸준히 추가 예정입니다! | |
 
 ---
