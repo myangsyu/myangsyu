@@ -25,14 +25,15 @@
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ### 🌱 Currently Learning
 <p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🔄 Version Control & Others
@@ -48,11 +49,12 @@
 
 | Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Description &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Role / Note &emsp;&emsp;|
 | :---------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :---------------------------------- |
-| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 방문 유형 식별 기반 스마트 도어벨 시스템 | Team A+ble |
-| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | Team 와굴와굴 BE (3위🥉) |
-| 🔮 **[사주 얀](https://github.com/myangsyu/saju-me)** | AI 사주풀이 서비스 | 1인 개발 |
-| ⏰ **[틈틈](https://github.com/LikeLion-at-DGU/2026-hackathon-TeumTeum-BE)** | 멋쟁이사자처럼 14기 중앙해커톤 프로젝트 | Team 동크크 BE |
+| 🍁 **[풀스온](https://github.com/LikeLion-at-DGU/2026_fall_festival_back)** | 2026 동국대 가을 대동제 축제 사이트 | 멋사 축제 사이트 TF팀 BE |
 | 📍 **[모하지](https://github.com/myangsyu/mohaji)** | 중간 약속 지역 및 장소 추천 서비스 | 1인 개발 |
+| ⏰ **[틈틈](https://github.com/LikeLion-at-DGU/2026-hackathon-TeumTeum-BE)** | 멋쟁이사자처럼 14기 중앙해커톤 프로젝트 | Team 동크크 BE |
+| 🔮 **[사주 얀](https://github.com/myangsyu/saju-me)** | AI 사주풀이 서비스 | 1인 개발 |
+| 🐸 **[WE, SIDE!](https://github.com/LikeLion-at-DGU/2026-simba-3team-wigul)** | 멋쟁이사자처럼 14기 심바톤 프로젝트 | Team 와굴와굴 BE (3위🥉) |
+| 🏠 **방문 유형 식별 기반 스마트 도어벨 시스템** | 방문 유형 식별 기반 스마트 도어벨 시스템 | Team A+ble |
 | 🚀 *More Projects Coming Soon...* | 꾸준히 추가 예정입니다! | |
 
 ---
