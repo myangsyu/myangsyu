@@ -63,11 +63,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myangsyu&theme=tokyonight" width="49%" />
 </p>
 
-<p align="center">
-  <a href="https://solved.ac/profile/myangsyu">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myangsyu" alt="Solved.ac Profile" width="350" />
-  </a>
-</p>
 
 ---
 
